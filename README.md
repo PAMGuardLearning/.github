@@ -5,8 +5,8 @@ software](https://www.pamguard.org) and [https://github.com/PAMGuard/](https://g
 
 ## PAMGuard Users
 If you're a PAMGuard user, then you probably **don't** want to be looking at the material here. You should go 
-straight to the tutorial instructions on the PAMGuard website at [https://www.pamguard.org/69_Tutorials.html](https://www.pamguard.org/69_Tutorials.html).
-From there, you'll get the latest version of the tutorial instructions and find links to material required to complete the tutorial. This 
+straight to the tutorial instructions on the PAMGuard website at [https://www.pamguard.org/tutorials.html](https://www.pamguard.org/tutorials.html).
+From there, you'll get the latest version of the tutorial instructions and find links to material required to complete each tutorial. This 
 may consist of PAMGuard configuration files, sound recordings, and processed PAMGuard data. Some of the files used are already in the public 
 domain, or may be too big to host on certain servers, so these links might be to a variety of servers around the world. 
 
