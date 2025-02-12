@@ -4,17 +4,18 @@ These repositories are all dedicated to development of PAMGuard training materia
 
 Published materials are held in releases within the appropriate repository. A typical PAMGuard user wanting to learn how to use PAMGuard should probably **not** be looking through the pages in these repositories. 
 Information linking the published tutorial documents is available in the appropriate 
-page within the [tutorials section](https://www.pamguard.org/tutorials.html) of the PAMGuard website. If there isn't a link from the PAMGuard website, then you're possible
+page within the [tutorials section](https://www.pamguard.org/tutorials.html) of the PAMGuard website. If there isn't a link from the PAMGuard website, then you're possibly
 looking at a tutorial document that is still under development, and you do so at your own peril. 
 
 Configuration files and data for use with each tutorial are made available using  a variety of resources. Configuration files may be held on these pages with the tutorial documentation. Larger files, 
-such as raw sound files will be hoseted on a different data repository, such as Zenodo. See the notes in specific tutorials on where to find the data. Again, if you're a user, this information will be
+such as raw sound files will be hoseted on a different data repository, such as Zenodo. See the notes in specific tutorials on where to find the data and any configuration files you might need. 
+Again, if you're a user, this information will be
 clear in the tutorial documents themselves and the information on the [tutorials pages](https://www.pamguard.org/tutorials.html) do you don't need to be grubbing around here. 
 
-Tools for preparing the materials vary. Some are using MS Word, others [Quarto](https://quarto.org/), which is a free work processing package built into R Studio that uses a 
+Tools for preparing the materials vary. Some are using MS Word, others [Quarto](https://quarto.org/), which is a free word processing package built into R Studio that uses a 
 combination of [Markdown](https://en.wikipedia.org/wiki/Markdown) and [Tex](https://en.wikipedia.org/wiki/TeX). 
 
-Materials on this site are open source and you're free to look around and fork the source material. 
+Materials on this site are open source. You're free to look around and fork the source material, and to incorporate it into your own training programmes.
 
 | Tutorial | Prerequisites |  Outcomes |
 | -------- | --------- | --------- |
