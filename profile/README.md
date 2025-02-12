@@ -12,7 +12,7 @@ such as raw sound files will be hoseted on a different data repository, such as 
 Again, if you're a user, this information will be
 clear in the tutorial documents themselves and the information on the [tutorials pages](https://www.pamguard.org/tutorials.html) do you don't need to be grubbing around here. 
 
-Tools for preparing the materials vary. Some are using MS Word, others [Quarto](https://quarto.org/), which is a free word processing package built into R Studio that uses a 
+Tools for preparing the materials vary. Some are using MS Word, others [Quarto](https://quarto.org/), which is a free word processing package built into [R Studio](https://posit.co/download/rstudio-desktop/) that uses a 
 combination of [Markdown](https://en.wikipedia.org/wiki/Markdown) and [Tex](https://en.wikipedia.org/wiki/TeX). 
 
 Materials on this site are open source. You're free to look around and fork the source material, and to incorporate it into your own training programmes.
